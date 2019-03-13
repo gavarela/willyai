@@ -6,7 +6,6 @@
 ## ~~~~~~~~~~~~~~~~~~
 
 import numpy as np, json, sys
-from scipy import signal
 
 
 ## ~~~~~~~~~~~~~~~~~
